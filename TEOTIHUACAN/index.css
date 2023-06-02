@@ -1,0 +1,60 @@
+body {
+background-color: black;
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+    color:#F10101;
+    font-family:Optima;
+
+}
+h2{
+    text-align: center;
+    font-size: 20px;
+    color:#20EE16;
+    font-family:Times;
+
+}
+
+h3{
+    text-align: center;
+    font-size: 20px;
+    color:#20EE16;
+    font-family:Times;
+
+}
+
+h4{
+    text-align: center;
+    font-size: 20px;
+    color:#20EE16;
+    font-family:Copperplate
+;
+
+}
+
+
+#k1{
+    color: #FFFFFF;
+    font-size: 20px;
+    font-family: Verdana;
+}
+
+#k2{
+    color: #FFFFFF;
+    font-family: Verdana;
+    font-size: 20px;
+}
+
+#k3{
+    color: #FFFFFF;
+    font-family: Verdana;
+    font-size: 20px;
+}
+
+#k4{
+    text-align: center;
+    color: #FFFFFF;
+    font-family: Verdana;
+    font-size: 20px;
+}
